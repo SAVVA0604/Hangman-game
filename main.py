@@ -5,7 +5,6 @@ from tkinter import *
 import os
 
 # from playsound import playsound
-# playsound(r'C:\\Users\\spete\\Desktop\\py_proj\\hangman_game\\км - ля.mp3')
 
 n = 6
 w1 = list(english_words_lower_set)[randint(0, len(english_words_lower_set))]  # len = 25000
